@@ -1,0 +1,197 @@
+-------Adams-------
++------------------------+-------------+--------------+------------+
+|       Party name       | Adams_seats | actual_seats | difference |
++------------------------+-------------+--------------+------------+
+|         Likud          |      22     |      30      |     8      |
+|       Yesh Atid        |      13     |      17      |     4      |
+|          Shas          |      7      |      9       |     2      |
+|      Kachol Lavan      |      6      |      8       |     2      |
+|         Yamina         |      6      |      7       |     1      |
+|        Haavoda         |      6      |      7       |     1      |
+|     Yahadut Hatora     |      5      |      7       |     2      |
+|    Israel Beiteinu     |      5      |      7       |     2      |
+|    Habait Hayehudi     |      5      |      6       |     1      |
+| Hareshima Hameshutefet |      5      |      6       |     1      |
+|     Tikva Hadasha      |      5      |      6       |     1      |
+|         Meretz         |      5      |      6       |     1      |
+|   Hareshima Haaravit   |      4      |      4       |     0      |
+| Hakalkalit Hachadasha  |      1      |      0       |     -1     |
+|          Rafa          |      1      |      0       |     -1     |
+|       Hapiratim        |      1      |      0       |     -1     |
+|       Ani Ve ata       |      1      |      0       |     -1     |
+|    Hatikva Leshinuy    |      1      |      0       |     -1     |
+|  Hamapatz Hachevrati   |      1      |      0       |     -1     |
+|     Mishpaz Tzedek     |      1      |      0       |     -1     |
+|         Tzomet         |      1      |      0       |     -1     |
+|       Am Shalem        |      1      |      0       |     -1     |
+|     Seder Chadash      |      1      |      0       |     -1     |
+|          Kama          |      1      |      0       |     -1     |
+|        Efshari         |      1      |      0       |     -1     |
+|     Halev Hayehudi     |      1      |      0       |     -1     |
+|        Atzmenu         |      1      |      0       |     -1     |
+|    Hagush Hatanachi    |      1      |      0       |     -1     |
+|      Olam Chadash      |      1      |      0       |     -1     |
+|    Brit Hashutafut     |      1      |      0       |     -1     |
+|       Haisraelim       |      1      |      0       |     -1     |
+|          Shma          |      1      |      0       |     -1     |
+|          Daam          |      1      |      0       |     -1     |
+|   Manhigut Chevratit   |      1      |      0       |     -1     |
+|          Maan          |      1      |      0       |     -1     |
+|         Chetz          |      1      |      0       |     -1     |
+|        Anachnu         |      1      |      0       |     -1     |
+|      Kvod Haadam       |      1      |      0       |     -1     |
+|       Demokratit       |      1      |      0       |     -1     |
++------------------------+-------------+--------------+------------+
+
+
+-------Jefferson-------
++------------------------+-----------------+--------------+------------+
+|       Party name       | Jefferson_seats | actual_seats | difference |
++------------------------+-----------------+--------------+------------+
+|         Likud          |        30       |      30      |     0      |
+|       Yesh Atid        |        17       |      17      |     0      |
+|          Shas          |        9        |      9       |     0      |
+|      Kachol Lavan      |        8        |      8       |     0      |
+|         Yamina         |        7        |      7       |     0      |
+|        Haavoda         |        7        |      7       |     0      |
+|     Yahadut Hatora     |        7        |      7       |     0      |
+|    Israel Beiteinu     |        7        |      7       |     0      |
+|    Habait Hayehudi     |        6        |      6       |     0      |
+| Hareshima Hameshutefet |        6        |      6       |     0      |
+|     Tikva Hadasha      |        6        |      6       |     0      |
+|         Meretz         |        5        |      6       |     1      |
+|   Hareshima Haaravit   |        4        |      4       |     0      |
+| Hakalkalit Hachadasha  |        1        |      0       |     -1     |
+|          Rafa          |        0        |      0       |     0      |
+|       Hapiratim        |        0        |      0       |     0      |
+|       Ani Ve ata       |        0        |      0       |     0      |
+|    Hatikva Leshinuy    |        0        |      0       |     0      |
+|  Hamapatz Hachevrati   |        0        |      0       |     0      |
+|     Mishpaz Tzedek     |        0        |      0       |     0      |
+|         Tzomet         |        0        |      0       |     0      |
+|       Am Shalem        |        0        |      0       |     0      |
+|     Seder Chadash      |        0        |      0       |     0      |
+|          Kama          |        0        |      0       |     0      |
+|        Efshari         |        0        |      0       |     0      |
+|     Halev Hayehudi     |        0        |      0       |     0      |
+|        Atzmenu         |        0        |      0       |     0      |
+|    Hagush Hatanachi    |        0        |      0       |     0      |
+|      Olam Chadash      |        0        |      0       |     0      |
+|    Brit Hashutafut     |        0        |      0       |     0      |
+|       Haisraelim       |        0        |      0       |     0      |
+|          Shma          |        0        |      0       |     0      |
+|          Daam          |        0        |      0       |     0      |
+|   Manhigut Chevratit   |        0        |      0       |     0      |
+|          Maan          |        0        |      0       |     0      |
+|         Chetz          |        0        |      0       |     0      |
+|        Anachnu         |        0        |      0       |     0      |
+|      Kvod Haadam       |        0        |      0       |     0      |
+|       Demokratit       |        0        |      0       |     0      |
++------------------------+-----------------+--------------+------------+
+
+
+-------Webster-------
++------------------------+---------------+--------------+------------+
+|       Party name       | Webster_seats | actual_seats | difference |
++------------------------+---------------+--------------+------------+
+|         Likud          |       29      |      30      |     1      |
+|       Yesh Atid        |       17      |      17      |     0      |
+|          Shas          |       9       |      9       |     0      |
+|      Kachol Lavan      |       8       |      8       |     0      |
+|         Yamina         |       7       |      7       |     0      |
+|        Haavoda         |       7       |      7       |     0      |
+|     Yahadut Hatora     |       7       |      7       |     0      |
+|    Israel Beiteinu     |       7       |      7       |     0      |
+|    Habait Hayehudi     |       6       |      6       |     0      |
+| Hareshima Hameshutefet |       6       |      6       |     0      |
+|     Tikva Hadasha      |       6       |      6       |     0      |
+|         Meretz         |       5       |      6       |     1      |
+|   Hareshima Haaravit   |       5       |      4       |     -1     |
+| Hakalkalit Hachadasha  |       1       |      0       |     -1     |
+|          Rafa          |       0       |      0       |     0      |
+|       Hapiratim        |       0       |      0       |     0      |
+|       Ani Ve ata       |       0       |      0       |     0      |
+|    Hatikva Leshinuy    |       0       |      0       |     0      |
+|  Hamapatz Hachevrati   |       0       |      0       |     0      |
+|     Mishpaz Tzedek     |       0       |      0       |     0      |
+|         Tzomet         |       0       |      0       |     0      |
+|       Am Shalem        |       0       |      0       |     0      |
+|     Seder Chadash      |       0       |      0       |     0      |
+|          Kama          |       0       |      0       |     0      |
+|        Efshari         |       0       |      0       |     0      |
+|     Halev Hayehudi     |       0       |      0       |     0      |
+|        Atzmenu         |       0       |      0       |     0      |
+|    Hagush Hatanachi    |       0       |      0       |     0      |
+|      Olam Chadash      |       0       |      0       |     0      |
+|    Brit Hashutafut     |       0       |      0       |     0      |
+|       Haisraelim       |       0       |      0       |     0      |
+|          Shma          |       0       |      0       |     0      |
+|          Daam          |       0       |      0       |     0      |
+|   Manhigut Chevratit   |       0       |      0       |     0      |
+|          Maan          |       0       |      0       |     0      |
+|         Chetz          |       0       |      0       |     0      |
+|        Anachnu         |       0       |      0       |     0      |
+|      Kvod Haadam       |       0       |      0       |     0      |
+|       Demokratit       |       0       |      0       |     0      |
++------------------------+---------------+--------------+------------+
+
+==================================== parties with at least 3.25% of votes ====================================
+
+-------Adams-------
++------------------------+-------------+--------------+------------+
+|       Party name       | Adams_seats | actual_seats | difference |
++------------------------+-------------+--------------+------------+
+|         Likud          |      28     |      30      |     2      |
+|       Yesh Atid        |      16     |      17      |     1      |
+|          Shas          |      9      |      9       |     0      |
+|      Kachol Lavan      |      8      |      8       |     0      |
+|         Yamina         |      8      |      7       |     -1     |
+|        Haavoda         |      8      |      7       |     -1     |
+|     Yahadut Hatora     |      7      |      7       |     0      |
+|    Israel Beiteinu     |      7      |      7       |     0      |
+|    Habait Hayehudi     |      6      |      6       |     0      |
+| Hareshima Hameshutefet |      6      |      6       |     0      |
+|     Tikva Hadasha      |      6      |      6       |     0      |
+|         Meretz         |      6      |      6       |     0      |
+|   Hareshima Haaravit   |      5      |      4       |     -1     |
++------------------------+-------------+--------------+------------+
+
+
+-------Jefferson-------
++------------------------+-----------------+--------------+------------+
+|       Party name       | Jefferson_seats | actual_seats | difference |
++------------------------+-----------------+--------------+------------+
+|         Likud          |        31       |      30      |     -1     |
+|       Yesh Atid        |        17       |      17      |     0      |
+|          Shas          |        9        |      9       |     0      |
+|      Kachol Lavan      |        8        |      8       |     0      |
+|         Yamina         |        7        |      7       |     0      |
+|        Haavoda         |        7        |      7       |     0      |
+|     Yahadut Hatora     |        7        |      7       |     0      |
+|    Israel Beiteinu     |        7        |      7       |     0      |
+|    Habait Hayehudi     |        6        |      6       |     0      |
+| Hareshima Hameshutefet |        6        |      6       |     0      |
+|     Tikva Hadasha      |        6        |      6       |     0      |
+|         Meretz         |        5        |      6       |     1      |
+|   Hareshima Haaravit   |        4        |      4       |     0      |
++------------------------+-----------------+--------------+------------+
+
+
+-------Webster-------
++------------------------+---------------+--------------+------------+
+|       Party name       | Webster_seats | actual_seats | difference |
++------------------------+---------------+--------------+------------+
+|         Likud          |       29      |      30      |     1      |
+|       Yesh Atid        |       17      |      17      |     0      |
+|          Shas          |       9       |      9       |     0      |
+|      Kachol Lavan      |       8       |      8       |     0      |
+|         Yamina         |       7       |      7       |     0      |
+|        Haavoda         |       7       |      7       |     0      |
+|     Yahadut Hatora     |       7       |      7       |     0      |
+|    Israel Beiteinu     |       7       |      7       |     0      |
+|    Habait Hayehudi     |       6       |      6       |     0      |
+| Hareshima Hameshutefet |       6       |      6       |     0      |
+|     Tikva Hadasha      |       6       |      6       |     0      |
+|         Meretz         |       6       |      6       |     0      |
+|   Hareshima Haaravit   |       5       |      4       |     -1     |
++------------------------+---------------+--------------+------------+
